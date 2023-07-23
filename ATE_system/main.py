@@ -68,6 +68,7 @@ class MainWindow(QMainWindow, Ui_MES_System):
 
         except:
             # Call example.dll, which contains functions provided by the contractor
+            # But the DLL file is not included in this folder because of confidential issue
             import clr 
             clr.FindAssembly("example")
             import example_function

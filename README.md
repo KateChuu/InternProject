@@ -8,3 +8,5 @@ This practice allows users to type something, choose some options and submit, th
 #### display_table
 
 ## ATE system
+
+randomly type sth here~
